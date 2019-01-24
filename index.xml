@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archos</title>
+    <link>https://archos.no/</link>
+    <description>Recent content on Archos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Jan 2019 15:47:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://archos.no/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://archos.no/blog/first-post/</link>
+      <pubDate>Thu, 24 Jan 2019 15:47:31 +0100</pubDate>
+      
+      <guid>https://archos.no/blog/first-post/</guid>
+      <description>Delenit nostrum corrumpit per no. Mundi forensibus ad vix. Has enim mutat consequat ad, stet decore suscipiantur ea mel, eam te ullum ornatus platonem. At tantas dictas concludaturque duo, modus idque quodsi eum ne. Ullum eripuit graecis ex cum. Est cu assum omnium consetetur, stet omnes vel at, eu has putant feugiat rationibus.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://archos.no/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://archos.no/about/</guid>
+      <description>Lorem ipsum dolor sit amet, unum iusto qui te, et pri liber adipiscing. Ea eam alterum copiosae, quo ei consul referrentur liberavisse, usu mazim iusto impetus at. Et summo necessitatibus per, vis ea deserunt inciderint, mazim nostro eos no. Esse idque laoreet per ad, omnesque adipisci in cum, ei sit philosophia mediocritatem. Euismod volumus ei pro, quidam vituperata sea te. Ut mei lorem libris, vel labore postulant ea.</description>
+    </item>
+    
+    <item>
+      <title>Toma Nistor</title>
+      <link>https://archos.no/gallery/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>https://archos.no/gallery/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://archos.no/gallery/hugo/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://archos.no/gallery/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osprey</title>
+      <link>https://archos.no/gallery/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://archos.no/gallery/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugged Fellows Guide</title>
+      <link>https://archos.no/gallery/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>https://archos.no/gallery/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
